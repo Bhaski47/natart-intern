@@ -81,8 +81,8 @@ function Home() {
       </p>
       <div className={styles.footer}>
         <p>Toll Free : <a href="tel:18002001234"> 1800 200 1234 </a></p>
-        <a href="https://www.facebook.com/cripumps" target="_blank">www.facebook.com/cripumps</a>
-        <a href="https://www.crigroups.com" target="_blank">www.crigroups.com</a>
+        <a href="https://www.facebook.com/cripumps" target="_blank" rel="noreferrer">www.facebook.com/cripumps</a>
+        <a href="https://www.crigroups.com" target="_blank" rel="noreferrer">www.crigroups.com</a>
       </div>
     </div>
   );
